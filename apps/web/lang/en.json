@@ -10,6 +10,11 @@
     "women": "Women",
     "men": "Men",
     "kid": "Kid",
+    "cat1": "Gewürzmischung",
+    "cat2": "Gewürze",
+    "cat3": "Tee",
+    "cat4": "Sale",
+    "cat5": "Sets",
     "displayDetails": {
       "detail1": {
         "title": "Step Out in Style",
@@ -386,6 +391,7 @@
   "readLess": "Read less",
   "noReviews": "No reviews",
   "loading": "Loading...",
+  "topseller": "Our topseller",
   "gallery": {
     "count": "{current} of {total}",
     "thumb": "Go to slide {index}",
@@ -469,8 +475,7 @@
       "shippingDetails": {
         "newAddress": "New Shipping Address",
         "shippingAddress": "Shipping address"
-      },
-      "noAddresses": "You don't have any addresses yet"
+      }
     },
     "ordersAndReturns": {
       "heading": "Orders & Returns",

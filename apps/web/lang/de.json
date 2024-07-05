@@ -10,6 +10,11 @@
     "women": "Frauen",
     "men": "Männer",
     "kid": "Kind",
+    "cat1": "Gewürzmischung",
+    "cat2": "Gewürze",
+    "cat3": "Tee",
+    "cat4": "Sale",
+    "cat5": "Sets",
     "displayDetails": {
       "detail1": {
         "title": "Stilvoll heraustreten",
@@ -386,6 +391,7 @@
   "readLess": "Weniger lesen",
   "noReviews": "Keine Bewertungen",
   "loading": "Wird geladen...",
+  "topseller": "Unsere Topseller",
   "gallery": {
     "count": "{current} von {total}",
     "thumb": "Zu Bild {index}",
@@ -469,8 +475,7 @@
       "shippingDetails": {
         "shippingAddress": "Lieferadresse",
         "newAddress": "Neue Lieferadresse"
-      },
-      "noAddresses": "Es sind noch keine Addresse vorhanden."
+      }
     },
     "ordersAndReturns": {
       "heading": "Bestellungen & Retouren",
